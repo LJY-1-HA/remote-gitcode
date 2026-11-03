@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_item_dish_admin.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/item_dish_admin.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_tab_dish_manage.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_tab_dish_manage.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/menu_menu_admin_nav.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/menu/menu_admin_nav.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_activity_register.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_tab_stats.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_tab_stats.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_search.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_fragment_profile.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_activity_dish_edit.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_dish_edit.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_fragment_order_manage.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_order_manage.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_fragment_cart.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_tab_orders.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_tab_orders.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_logout.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_emoji_circle.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_emoji_circle.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_tab_menu.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_tab_menu.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_status_delivering.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_status_delivering.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_tab_profile.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_tab_profile.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_chip_normal.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_chip_normal.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_fragment_dish_manage.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_dish_manage.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_fragment_orders.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_orders.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_header.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_item_order.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_item_cart.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_search.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/menu_menu_bottom_nav.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/menu/menu_bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_item_top_dish.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/item_top_dish.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_badge.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_activity_checkout.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_edit.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_status_done.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_status_done.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_fragment_menu.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_status_canceled.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_status_canceled.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_minus.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_minus.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_activity_login.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_tab_cart.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_tab_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_tab_order_manage.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_tab_order_manage.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_add.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_item_dish.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/item_dish.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_status_cooking.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_status_cooking.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_status_pending.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_status_pending.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_fragment_stats.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_bg_chip_selected.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/bg_chip_selected.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_activity_admin.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/drawable_ic_delete.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-25:/layout_item_order_admin.xml.flat",
+        "source": "com.example.foodorder.app-main-27:/layout/item_order_admin.xml"
+    }
+]

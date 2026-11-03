@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.foodorder"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:4:5-31:19
+12        android:allowBackup="true"
+12-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:5:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\10977\.gradle\caches\transforms-3\16473637a7e42a5436226d21c8b3e442\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@drawable/ic_launcher"
+16-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:6:9-45
+17        android:label="@string/app_name"
+17-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:7:9-41
+18        android:supportsRtl="true"
+18-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:8:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.FoodOrder" >
+20-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:9:9-47
+21
+22        <!-- 登录页（应用入口） -->
+23        <activity
+23-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:12:9-19:20
+24            android:name="com.example.foodorder.ui.LoginActivity"
+24-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:13:13-45
+25            android:exported="true" >
+25-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:14:13-36
+26            <intent-filter>
+26-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:15:13-18:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:16:17-69
+27-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:16:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:17:17-77
+29-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:17:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <!-- 注册页 -->
+34        <activity
+34-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:22:9-82
+35            android:name="com.example.foodorder.ui.RegisterActivity"
+35-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:22:19-54
+36            android:exported="false" />
+36-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:22:55-79
+37        <!-- 顾客端主页（底部导航：点餐/购物车/订单/我的） -->
+38        <activity
+38-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:24:9-78
+39            android:name="com.example.foodorder.ui.MainActivity"
+39-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:24:19-50
+40            android:exported="false" />
+40-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:24:51-75
+41        <!-- 管理端主页（底部导航：菜品管理/订单管理/统计） -->
+42        <activity
+42-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:26:9-79
+43            android:name="com.example.foodorder.ui.AdminActivity"
+43-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:26:19-51
+44            android:exported="false" />
+44-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:26:52-76
+45        <!-- 确认订单（结算）页 -->
+46        <activity
+46-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:28:9-82
+47            android:name="com.example.foodorder.ui.CheckoutActivity"
+47-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:28:19-54
+48            android:exported="false" />
+48-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:28:55-79
+49        <!-- 菜品新增/编辑页（管理端） -->
+50        <activity
+50-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:30:9-82
+51            android:name="com.example.foodorder.ui.DishEditActivity"
+51-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:30:19-54
+52            android:exported="false" />
+52-->D:\class\vs Android\FoodOrder\app\src\main\AndroidManifest.xml:30:55-79
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\10977\.gradle\caches\transforms-3\1581a78000227ce189b4985e38c19692\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\10977\.gradle\caches\transforms-3\1581a78000227ce189b4985e38c19692\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+56            android:authorities="com.example.foodorder.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\10977\.gradle\caches\transforms-3\1581a78000227ce189b4985e38c19692\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\10977\.gradle\caches\transforms-3\1581a78000227ce189b4985e38c19692\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\10977\.gradle\caches\transforms-3\1581a78000227ce189b4985e38c19692\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\10977\.gradle\caches\transforms-3\1581a78000227ce189b4985e38c19692\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\10977\.gradle\caches\transforms-3\1581a78000227ce189b4985e38c19692\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\10977\.gradle\caches\transforms-3\22d1a386462ef951ed64038d3db95000\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\10977\.gradle\caches\transforms-3\22d1a386462ef951ed64038d3db95000\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\10977\.gradle\caches\transforms-3\22d1a386462ef951ed64038d3db95000\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>

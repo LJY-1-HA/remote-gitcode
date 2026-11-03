@@ -1,0 +1,11 @@
+<resources>
+    <!-- 菜品分类（管理端新增/编辑菜品时选择） -->
+    <string-array name="dish_categories">
+        <item>推荐</item>
+        <item>主食</item>
+        <item>炒菜</item>
+        <item>小吃</item>
+        <item>饮品</item>
+        <item>甜品</item>
+    </string-array>
+</resources>

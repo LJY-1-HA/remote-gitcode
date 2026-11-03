@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调：外卖橙 -->
+    <color name="primary">#FF5722</color>
+    <color name="primary_dark">#BF360C</color>
+    <color name="accent">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- 页面与文字 -->
+    <color name="bg_page">#F5F6F8</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#8A8A8A</color>
+    <color name="divider">#EEEEEE</color>
+
+    <!-- 价格 -->
+    <color name="price">#F4511E</color>
+
+    <!-- 订单状态色 -->
+    <color name="status_pending">#EF6C00</color>
+    <color name="status_cooking">#1565C0</color>
+    <color name="status_delivering">#6A1B9A</color>
+    <color name="status_done">#2E7D32</color>
+    <color name="status_canceled">#757575</color>
+
+    <!-- 状态标签背景（浅色） -->
+    <color name="status_pending_bg">#FFF3E0</color>
+    <color name="status_cooking_bg">#E3F2FD</color>
+    <color name="status_delivering_bg">#F3E5F5</color>
+    <color name="status_done_bg">#E8F5E9</color>
+    <color name="status_canceled_bg">#EEEEEE</color>
+
+    <!-- 菜品 emoji 头像背景 -->
+    <color name="emoji_bg">#FFF3E0</color>
+
+    <!-- 徽标（购物车数量） -->
+    <color name="badge">#E53935</color>
+</resources>

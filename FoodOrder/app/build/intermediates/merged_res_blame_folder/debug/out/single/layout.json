@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/activity_dish_edit.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_dish_edit.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/fragment_orders.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_orders.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/item_order_admin.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/item_order_admin.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/item_top_dish.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/item_top_dish.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/item_order.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/fragment_stats.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/activity_register.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/item_dish.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/item_dish.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/item_dish_admin.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/item_dish_admin.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/activity_checkout.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/activity_admin.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/activity_main.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/fragment_order_manage.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_order_manage.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/item_cart.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/fragment_menu.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/fragment_dish_manage.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_dish_manage.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/fragment_profile.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/activity_login.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-24:/layout/fragment_cart.xml",
+        "source": "com.example.foodorder.app-main-27:/layout/fragment_cart.xml"
+    }
+]
